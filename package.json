@@ -31,7 +31,7 @@
     "jquery": "^3.5.1",
     "node-sass": "^4.8.3",
     "react": "16.2.0",
-    "react-dom": "16.2.0",
+    "react-dom": "16.2.1",
     "react-hot-loader": "^4.12.21",
     "react-redux": "5.0.7",
     "redux": "3.7.2",
